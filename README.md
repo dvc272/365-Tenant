@@ -15,6 +15,8 @@ Now I have removed the roles for specific user accounts, and applied them to the
 <img width="2555" height="554" alt="image" src="https://github.com/user-attachments/assets/3c82fd26-a88b-4486-b637-1c2df8be6892" />
 <img width="2556" height="481" alt="image" src="https://github.com/user-attachments/assets/21b4b7a5-8590-47e3-b9a8-adb7eb13b9f6" />
 Without cluttering this with screenshots, the following groups have these permanent role assignments:
+Vince Craft - User account that has Global Admin role
+Break Glass - User account that has Global Admin role
 HR - Sharepoint Administrator
 IAM - Authentication Policy Administrator, Groups Administrator, Privileged Authentication Administrator, License Administrator, Security Reader, Privileged Role Administrator, User Administrator, Conditional Access Administrator, Authentication Administrator
 Security Team - Security Administrator
