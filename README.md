@@ -15,13 +15,13 @@ Now I have removed the roles for specific user accounts, and applied them to the
 <img width="2555" height="554" alt="image" src="https://github.com/user-attachments/assets/3c82fd26-a88b-4486-b637-1c2df8be6892" />
 <img width="2556" height="481" alt="image" src="https://github.com/user-attachments/assets/21b4b7a5-8590-47e3-b9a8-adb7eb13b9f6" />
 Without cluttering this with screenshots, the following groups have these permanent role assignments:
-Vince Craft - User account that has Global Admin role
-Break Glass - User account that has Global Admin role
-HR - Sharepoint Administrator
-IAM - Authentication Policy Administrator, Groups Administrator, Privileged Authentication Administrator, License Administrator, Security Reader, Privileged Role Administrator, User Administrator, Conditional Access Administrator, Authentication Administrator
-Security Team - Security Administrator
-Teams Admin - Teams Administrator
-The point of this is separation of duties, only giving the memebers of these security groups the access they need to perform their job duties. As you can see by the screenshot below, the user account Help Desk1 now has active role assignments that have been applied through GROUP membership.
+-Vince Craft - User account that has Global Admin role
+-Break Glass - User account that has Global Admin role
+-HR - Sharepoint Administrator
+-IAM - Authentication Policy Administrator, Groups Administrator, Privileged Authentication Administrator, License Administrator, Security Reader, Privileged Role Administrator, User Administrator, Conditional Access Administrator, Authentication Administrator
+-Security Team - Security Administrator
+-Teams Admin - Teams Administrator
+-The point of this is separation of duties, only giving the memebers of these security groups the access they need to perform their job duties. As you can see by the screenshot below, the user account Help Desk1 now has active role assignments that have been applied through GROUP membership.
 <img width="2553" height="446" alt="image" src="https://github.com/user-attachments/assets/ed3bf0f6-125e-4e08-a631-2336850c4256" />
 PART 2
 Part 1 was simply a basic setup of a small organization tenant. In Part 2, we will dive further into Entra and apply MFA with conditional access policies, and Privileged Identity Management.
