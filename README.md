@@ -24,4 +24,9 @@ Without cluttering this with screenshots, the following groups have these perman
 -The point of this is separation of duties, only giving the memebers of these security groups the access they need to perform their job duties. As you can see by the screenshot below, the user account Help Desk1 now has active role assignments that have been applied through GROUP membership.
 <img width="2553" height="446" alt="image" src="https://github.com/user-attachments/assets/ed3bf0f6-125e-4e08-a631-2336850c4256" />
 PART 2
-Part 1 was simply a basic setup of a small organization tenant. In Part 2, we will dive further into Entra and apply MFA with conditional access policies, and Privileged Identity Management.
+Enabled guest self-service sign up via user flows
+<img width="2580" height="1040" alt="image" src="https://github.com/user-attachments/assets/4fc2c146-defa-4d53-927e-f6f49a6b5cc1" />
+Ensured that Email one-time passcode was configured for authentication in External Identities 
+<img width="2555" height="684" alt="image" src="https://github.com/user-attachments/assets/0559b433-9200-4aef-96cf-09406b0d1d96" />
+Further configured the external collaboration settings. Guest user access is restricted to properties and memberships of their own directory objects. Guest invite settings are restricted to member users and users assigned to specific admin roles can invite guest users including guests with member permissions. Collaboration restrictions are set to allow invitations to be sent to any domain.
+<img width="2552" height="1101" alt="image" src="https://github.com/user-attachments/assets/151e695a-b007-4309-83fd-694c3ecffa34" />
