@@ -30,3 +30,7 @@ Ensured that Email one-time passcode was configured for authentication in Extern
 <img width="2555" height="684" alt="image" src="https://github.com/user-attachments/assets/0559b433-9200-4aef-96cf-09406b0d1d96" />
 Further configured the external collaboration settings. Guest user access is restricted to properties and memberships of their own directory objects. Guest invite settings are restricted to member users and users assigned to specific admin roles can invite guest users including guests with member permissions. Collaboration restrictions are set to allow invitations to be sent to any domain.
 <img width="2552" height="1101" alt="image" src="https://github.com/user-attachments/assets/151e695a-b007-4309-83fd-694c3ecffa34" />
+Enabled MFA for all user accounts 
+<img width="2549" height="924" alt="image" src="https://github.com/user-attachments/assets/fd6abb29-5110-4fe2-9b99-0f04ba1c16f2" />
+Created conditional access policy to require MFA (break glass account excluded)
+<img width="2556" height="1061" alt="image" src="https://github.com/user-attachments/assets/1e51ca1c-17fd-4577-b726-01bf7af5b03d" />
