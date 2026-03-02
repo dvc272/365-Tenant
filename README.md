@@ -34,3 +34,10 @@ Enabled MFA for all user accounts
 <img width="2549" height="924" alt="image" src="https://github.com/user-attachments/assets/fd6abb29-5110-4fe2-9b99-0f04ba1c16f2" />
 Created conditional access policy to require MFA (break glass account excluded)
 <img width="2556" height="1061" alt="image" src="https://github.com/user-attachments/assets/1e51ca1c-17fd-4577-b726-01bf7af5b03d" />
+Configuring SSPR // 
+First, I created a group SSPR Testers and added all user accounts
+<img width="2555" height="904" alt="image" src="https://github.com/user-attachments/assets/3fead3fd-8078-4022-8741-b12a16cb4377" />
+Enabled SSPR and added the SSPR Testers group
+<img width="2546" height="725" alt="image" src="https://github.com/user-attachments/assets/ebb14af7-2767-4c11-a4e1-b04da553de69" />
+Confirmed that 1 authentication method is required to reset 
+<img width="2556" height="648" alt="image" src="https://github.com/user-attachments/assets/fe1b3fa2-6c13-4c24-b76c-959f85004bee" />
